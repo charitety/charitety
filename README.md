@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charitety
 - 👀 I’m interested in coding for social change.
-- 🌱 I’m currently learning, Javascript, React, Python and AWS.
+- 🌱 I’m currently learning Javascript, React, Python and AWS.
 - 💞️ I’m looking to collaborate on social projects 
 - 📫 You may find me on LinkedIn https://www.linkedin.com/in/caridadrobles/
 
