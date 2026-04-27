@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @charitety
-- 👀 I’m interested in coding for social change.
+- 👋 Hi, I’m Charite
 - 🌱 I’m currently learning Javascript, React, Python and AWS.
 - 💞️ I’m looking to collaborate on social projects 
-- 📫 You may find me on LinkedIn https://www.linkedin.com/in/caridadrobles/
+- ☕ You can buy me a cofee at https://studio.buymeacoffee.com/dashboard
 
 <!---
 charitety/charitety is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
